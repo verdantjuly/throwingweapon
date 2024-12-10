@@ -1,0 +1,4 @@
+name: throwingweapon
+version: '1.0-SNAPSHOT'
+main: verdantjuly.throwingweapon.Throwingweapon
+api-version: '1.21'
