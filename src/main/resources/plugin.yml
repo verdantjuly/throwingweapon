@@ -1,4 +1,8 @@
 name: throwingweapon
 version: '1.0-SNAPSHOT'
-main: verdantjuly.throwingweapon.Throwingweapon
+main: verdantjuly.throwingweapon.Main
 api-version: '1.21'
+commands:
+  tw:
+    description: Give a weapon to a player
+    usage: /tw <weapon> <player>
